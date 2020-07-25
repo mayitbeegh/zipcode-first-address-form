@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zipcode-first-address-form/static/css/main.5f361e03.chunk.css",
+    "main.js": "/zipcode-first-address-form/static/js/main.1db67a4d.chunk.js",
+    "main.js.map": "/zipcode-first-address-form/static/js/main.1db67a4d.chunk.js.map",
+    "runtime-main.js": "/zipcode-first-address-form/static/js/runtime-main.289a309e.js",
+    "runtime-main.js.map": "/zipcode-first-address-form/static/js/runtime-main.289a309e.js.map",
+    "static/js/2.9b1d954c.chunk.js": "/zipcode-first-address-form/static/js/2.9b1d954c.chunk.js",
+    "static/js/2.9b1d954c.chunk.js.map": "/zipcode-first-address-form/static/js/2.9b1d954c.chunk.js.map",
+    "index.html": "/zipcode-first-address-form/index.html",
+    "precache-manifest.49a844d85202aed408f5fa5f5af85e77.js": "/zipcode-first-address-form/precache-manifest.49a844d85202aed408f5fa5f5af85e77.js",
+    "service-worker.js": "/zipcode-first-address-form/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/zipcode-first-address-form/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9b1d954c.chunk.js.LICENSE.txt": "/zipcode-first-address-form/static/js/2.9b1d954c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/zipcode-first-address-form/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.289a309e.js",
+    "static/js/2.9b1d954c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1db67a4d.chunk.js"
+  ]
+}
